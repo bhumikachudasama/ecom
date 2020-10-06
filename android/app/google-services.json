@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "852178383435",
+    "firebase_url": "https://easy4shop-72de0.firebaseio.com",
+    "project_id": "easy4shop-72de0",
+    "storage_bucket": "easy4shop-72de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852178383435:android:1add9160042561c73993ce",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852178383435-42vpgdhvg7oackpj16734k30r29suev6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2h0mZcOVFEEOBJnZADfELAvc0Og9RDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852178383435-42vpgdhvg7oackpj16734k30r29suev6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852178383435:android:32acefc3984235753993ce",
+        "android_client_info": {
+          "package_name": "com.example.easy4shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852178383435-42vpgdhvg7oackpj16734k30r29suev6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2h0mZcOVFEEOBJnZADfELAvc0Og9RDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852178383435-42vpgdhvg7oackpj16734k30r29suev6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
